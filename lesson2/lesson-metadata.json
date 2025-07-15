@@ -2,14 +2,176 @@
   "id": "68764f7d369574d96c7309ef",
   "lessonNumber": 2,
   "title": "History of The Outer Banks",
-  "status": "pending",
+  "status": "complete",
   "assignment": {
-    "title": "Assignment will be generated",
-    "objective": "Objective will be provided when lesson is generated",
-    "expectedCapabilities": [],
-    "instructions": [],
-    "tasks": [],
-    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+    "title": "Exploring Key Historical Events of The Outer Banks",
+    "objective": "To analyze and present key historical events that shaped The Outer Banks.",
+    "expectedCapabilities": [
+      "Research historical events",
+      "Synthesize information",
+      "Present findings"
+    ],
+    "submissionInstructions": "Submit a slide deck (PDF or PPT) summarizing your findings and insights.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Research a Key Historical Event",
+        "description": "Conduct research on chosen historical events using provided references and external resources.",
+        "codeExample": "",
+        "_id": "687651d12a26a78a6f6e3eeb"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Research Key Events",
+            "description": "Select a key historical event related to The Outer Banks and conduct thorough research using academic and credible sources.",
+            "codeExample": "",
+            "_id": "687651d12a26a78a6f6e3ee9"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Create a Presentation",
+            "description": "Use the information gathered to create a detailed presentation outlining the significance and impact of the chosen event.",
+            "codeExample": "",
+            "_id": "687651d12a26a78a6f6e3eea"
+          }
+        ],
+        "_id": "687651d12a26a78a6f6e3ee8"
+      }
+    ],
+    "checklist": [
+      "Topic Research Completed",
+      "Presentation Created",
+      "Content Accurate",
+      "Impact Analyzed"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "Which historical event marked The Outer Banks as a strategic military site?",
+        "options": [
+          "First Flight of Wright brothers",
+          "Battle of Gettysburg",
+          "Union capture during Civil War"
+        ],
+        "answer": "Union capture during Civil War",
+        "_id": "687651d12a26a78a6f6e3ee6"
+      },
+      {
+        "question": "What mystery surrounds the early attempts to colonize The Outer Banks?",
+        "options": [
+          "The Vanishing Ships",
+          "The Lost Colony",
+          "Pirate Invasions"
+        ],
+        "answer": "The Lost Colony",
+        "_id": "687651d12a26a78a6f6e3ee7"
+      }
+    ]
   },
-  "subsections": []
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Early Inhabitants and Exploration!!!!!!!!",
+      "content": "The Outer Banks, a string of barrier islands, have a rich history dating back thousands of years. Native American tribes, such as the Algonquin, were the original inhabitants. European explorers, led by prominent figures like Giovanni da Verrazzano and later Sir Walter Raleigh, began mapping the region in the 16th century.",
+      "videoUrl": "http://video.com/outerBanksEarlyHistory",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.ncpedia.org/history/early/outer-banks"
+      ],
+      "quizzes": [
+        {
+          "question": "Which tribes originally inhabited The Outer Banks?",
+          "options": [
+            "Algonquin",
+            "Cherokee",
+            "Iroquois"
+          ],
+          "answer": "Algonquin",
+          "_id": "6876524b2a26a78a6f6e3f4f"
+        }
+      ],
+      "_id": "6876524b2a26a78a6f6e3f4e"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "The Lost Colony of Roanoke",
+      "content": "In 1587, over 100 settlers from England established a colony on Roanoke Island. Led by John White, this attempt became famously known as the 'Lost Colony' due to the mysterious disappearance of the settlers. To this day, the fate of the colony remains one of the greatest mysteries in American history.",
+      "videoUrl": "http://video.com/lostColonyMystery",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.history.com/news/archaeologists-discover-new-clues-to-lost-colonys-fate"
+      ],
+      "quizzes": [
+        {
+          "question": "What was the name of the colony established in 1587 on Roanoke Island?",
+          "options": [
+            "Jamestown",
+            "Lost Colony",
+            "Plymouth"
+          ],
+          "answer": "Lost Colony",
+          "_id": "6876524b2a26a78a6f6e3f51"
+        }
+      ],
+      "_id": "6876524b2a26a78a6f6e3f50"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Pirates and Shipwrecks",
+      "content": "The 17th and 18th centuries saw numerous pirate activities along The Outer Banks. Legendary pirates like Blackbeard found refuge in the waters of the islands. Additionally, the treacherous waters led to numerous shipwrecks, earning the region the nickname 'The Graveyard of the Atlantic'.",
+      "videoUrl": "http://video.com/piratesAndShipwrecks",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.outerbanks.org/island-history/pirates/"
+      ],
+      "quizzes": [
+        {
+          "question": "Who was the legendary pirate associated with The Outer Banks?",
+          "options": [
+            "Captain Kidd",
+            "Blackbeard",
+            "Henry Morgan"
+          ],
+          "answer": "Blackbeard",
+          "_id": "6876524b2a26a78a6f6e3f53"
+        }
+      ],
+      "_id": "6876524b2a26a78a6f6e3f52"
+    },
+    {
+      "subsectionOrder": 4,
+      "title": "Civil War and Reconstruction",
+      "content": "The strategic location of The Outer Banks made it vital during the Civil War. The Union forces captured key positions, which significantly impacted the Confederacy's ability to trade through blockade running. The Reconstruction era brought major changes to the region's social and economic structures.",
+      "videoUrl": "http://video.com/civilWarOuterBanks",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.civilwar.org/learn/articles/outer-banks-campaign"
+      ],
+      "quizzes": [
+        {
+          "question": "What impact did the capture of The Outer Banks have during the Civil War?",
+          "options": [
+            "Strengthened Confederate supply lines",
+            "Disrupted Confederate trade",
+            "Had no significant impact"
+          ],
+          "answer": "Disrupted Confederate trade",
+          "_id": "6876524b2a26a78a6f6e3f55"
+        }
+      ],
+      "_id": "6876524b2a26a78a6f6e3f54"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/outerBanksHistoryOverview"
+  ],
+  "references": [
+    "https://www.ncpedia.org/history/early/outer-banks",
+    "https://www.history.com/topics/colonial-america/roanoke",
+    "https://www.outerbanks.org/outerbanks.html"
+  ]
 }
