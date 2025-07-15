@@ -1,0 +1,180 @@
+{
+  "id": "68764f7d369574d96c7309ee",
+  "lessonNumber": 1,
+  "title": "Introduction to The Outer Banks",
+  "status": "complete",
+  "assignment": {
+    "title": "Explore the Outer Banks",
+    "objective": "Understand the geographical, ecological, and cultural aspects of the Outer Banks.",
+    "expectedCapabilities": [
+      "Identify key geographical features",
+      "Explain the ecological significance",
+      "Illustrate cultural highlights"
+    ],
+    "submissionInstructions": "Submit a report summarizing your findings on the geographical, ecological, and cultural importance of the Outer Banks.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Geographical Research",
+        "description": "Identify the most significant geographical landmarks.",
+        "codeExample": "N/A",
+        "_id": "68764fef369574d96c730a25"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Research Geographical Features",
+            "description": "Identify the key geographical features of the Outer Banks using online resources.",
+            "codeExample": "N/A",
+            "_id": "68764fef369574d96c730a20"
+          }
+        ],
+        "_id": "68764fef369574d96c730a1f"
+      },
+      {
+        "partNumber": 2,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Document Ecological Significance",
+            "description": "Write a short report on the different species and ecosystems found in the Outer Banks.",
+            "codeExample": "N/A",
+            "_id": "68764fef369574d96c730a22"
+          }
+        ],
+        "_id": "68764fef369574d96c730a21"
+      },
+      {
+        "partNumber": 3,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Cultural Exploration",
+            "description": "Create a timeline of significant cultural events in the Outer Banks' history.",
+            "codeExample": "N/A",
+            "_id": "68764fef369574d96c730a24"
+          }
+        ],
+        "_id": "68764fef369574d96c730a23"
+      }
+    ],
+    "checklist": [
+      "Research completed",
+      "Report compiled",
+      "Timeline created"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What major cultures influenced the Outer Banks?",
+        "options": [
+          "Vikings",
+          "Natives and European settlers",
+          "Incas"
+        ],
+        "answer": "Natives and European settlers",
+        "_id": "68764fef369574d96c730a1c"
+      },
+      {
+        "question": "Why are the barrier islands important ecologically?",
+        "options": [
+          "Habitat for diverse species",
+          "Gateway to other islands",
+          "Mining resources"
+        ],
+        "answer": "Habitat for diverse species",
+        "_id": "68764fef369574d96c730a1d"
+      },
+      {
+        "question": "Name one cultural event significant to the Outer Banks.",
+        "options": [
+          "Moon landing",
+          "First powered flight",
+          "Construction of the Great Wall"
+        ],
+        "answer": "First powered flight",
+        "_id": "68764fef369574d96c730a1e"
+      }
+    ]
+  },
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Geographical Overview",
+      "content": "The Outer Banks, a string of barrier islands off the coast of North Carolina, stretches over 200 miles. Known for its unique geography that separates the Atlantic Ocean from the mainland, the area is characterized by sandy beaches, dunes, and sounds.",
+      "videoUrl": "http://video.com/geographyOfTheOuterBanks",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.visitnc.com/outer-banks"
+      ],
+      "quizzes": [
+        {
+          "question": "What are the Outer Banks primarily known for?",
+          "options": [
+            "Mountain ranges",
+            "Deserts",
+            "Barrier islands"
+          ],
+          "answer": "Barrier islands",
+          "_id": "68764fef369574d96c730a17"
+        }
+      ],
+      "_id": "68764fef369574d96c730a16"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Climate and Ecology",
+      "content": "The climate of the Outer Banks is largely mild and temperate, influenced heavily by the ocean. It plays a critical role in the ecology, supporting diverse wildlife including sea turtles and various shorebirds.",
+      "videoUrl": "http://video.com/climateEcologyOuterBanks",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.outerbanks.org/things-to-do/nature-wildlife/"
+      ],
+      "quizzes": [
+        {
+          "question": "What kind of climate does the Outer Banks experience?",
+          "options": [
+            "Arctic",
+            "Desert",
+            "Temperate"
+          ],
+          "answer": "Temperate",
+          "_id": "68764fef369574d96c730a19"
+        }
+      ],
+      "_id": "68764fef369574d96c730a18"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Cultural Importance",
+      "content": "The Outer Banks holds a rich cultural heritage that includes tales of pirates, shipwrecks, and early colonists. It's famous for the Wright Brothers' first powered flight in Kitty Hawk.",
+      "videoUrl": "http://video.com/culturalImportanceOuterBanks",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.nps.gov/wrbr/index.htm"
+      ],
+      "quizzes": [
+        {
+          "question": "Which significant historical event took place in the Outer Banks?",
+          "options": [
+            "First powered flight",
+            "Declaration of Independence",
+            "Gold Rush"
+          ],
+          "answer": "First powered flight",
+          "_id": "68764fef369574d96c730a1b"
+        }
+      ],
+      "_id": "68764fef369574d96c730a1a"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/exploringOuterBanks"
+  ],
+  "references": [
+    "https://www.visitnc.com/outer-banks-guide"
+  ]
+}
