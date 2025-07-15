@@ -1,0 +1,34 @@
+{
+  "id": "68764f7d369574d96c7309e8",
+  "title": "The Outer Banks, North Carolina",
+  "description": "A comprehensive study of The Outer Banks, exploring its geography, history, culture, and economy. This course delves deep into various aspects of The Outer Banks, showcasing its importance and impact.",
+  "learningObjectives": [
+    "Understand the geography and landscape of The Outer Banks",
+    "Learn the history and culture of The Outer Banks",
+    "Analyze the economy of The Outer Banks",
+    "Understand the ecological importance of The Outer Banks"
+  ],
+  "finalProjectDetails": {
+    "overview": "A comprehensive project combining all learning objectives including creating a detailed report on The Outer Banks.",
+    "planningResources": [
+      "Maps of Outer Banks",
+      "Relevant historical documents",
+      "Research papers on Outer Banks"
+    ],
+    "submissionInstructions": "The final project should be submitted in a PDF format, not exceeding 20 pages including references. It should be emailed to the instructor by the last day of the course.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6864667b4b3a739e573c0e1d",
+    "name": "Doina Fitchevici",
+    "image": "https://avatars.githubusercontent.com/u/133082403?v=4",
+    "githubUsername": "DoinaFitchevici"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-15T12:54:21.677Z",
+  "updatedAt": "2025-07-15T12:54:21.677Z"
+}
