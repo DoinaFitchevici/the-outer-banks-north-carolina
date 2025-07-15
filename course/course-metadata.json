@@ -21,14 +21,23 @@
     ]
   },
   "createdBy": {
+    "isDeleted": false,
+    "deletedAt": null,
     "_id": "6864667b4b3a739e573c0e1d",
     "name": "Doina Fitchevici",
+    "email": "domna16@gmail.com",
     "image": "https://avatars.githubusercontent.com/u/133082403?v=4",
-    "githubUsername": "DoinaFitchevici"
+    "githubUsername": "DoinaFitchevici",
+    "emailVerified": null,
+    "createdAt": "2025-07-01T22:51:39.602Z",
+    "isAdmin": true,
+    "lastLogin": "2025-07-14T17:43:44.529Z",
+    "courseCount": 10
   },
   "contributors": [],
   "status": "pending",
   "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/DoinaFitchevici/the-outer-banks-north-carolina",
   "createdAt": "2025-07-15T12:54:21.677Z",
-  "updatedAt": "2025-07-15T12:54:21.677Z"
+  "updatedAt": "2025-07-15T13:00:21.856Z"
 }
